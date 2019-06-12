@@ -4,6 +4,6 @@ class NewTest{
   void test(){
   }
   
-  public void test2(){
+  public void testDemo(){
   }
 }
