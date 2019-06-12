@@ -1,4 +1,6 @@
+package com.example.demo;
+
 class NewTest{
-  public test(){
+  void test(){
   }
 }
