@@ -5,5 +5,8 @@ class NewTest{
   }
   
   public void testDemo(){
+  
+  }
+  public void newTestMethod(){
   }
 }
